@@ -1,17 +1,12 @@
 # Hi, I'm Naganathan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<table>
-  <tr>
-    <td>
-      - Student | Backend Developer | Cloud Architect
-      - 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      - 😇	Always on the **Cloud**.
-      - 🌱 I am currently into **Competitive Programming** and **Web Development**.
-      - 👀 I love to create **Digital Solutions** that makes life easier.
-    </td>    
-  </tr>
-</table>
+# About Me
+- Student | Backend Developer | Cloud Architect.
+- 🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
+- 🛠 I love to create Digital Solutions that makes life easier.
+- 😇Always on the Cloud.
+- 👀 I am currently into Competitive Programming and Web Development.
 
 
 ## Languages and Frameworks
