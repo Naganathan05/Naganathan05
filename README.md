@@ -4,9 +4,9 @@
 # About Me
 - Student | Backend Developer | Cloud Architect.
 - 🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
-- 🛠 I love to create Digital Solutions that makes life easier.
+- 🛠 Dedicated to Transform Ideas into Impactful Digital Experiences.
 - 😇Always on the Cloud.
-- 👀 I am currently into Competitive Programming and Web Development.
+- 👀 I am currently into Competitive Programming and Backend Development.
 
 ## Contributions Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naganathan05&bg_color=001724&color=fafafa&line=005fa8&point=1790ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
