@@ -9,7 +9,7 @@
 - 👀 I am currently into Competitive Programming and Backend Development.
 
 ## Contributions Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naganathan05&bg_color=001724&color=fafafa&line=005fa8&point=1790ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naganathan05&bg_color=001724&color=fafafa&line=005fa8&point=1790ee&area=true&hide_border=true)](https://github.com/Naganathan05/)
 
 ## Languages and Frameworks
 ![Skill Icons](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,terraform,nodejs,expressjs,docker,mysql,postgresql,dynamodb,mongodb,sqlite,nginx,react,bash,regex&theme=dark&perline=15)
