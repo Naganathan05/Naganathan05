@@ -34,9 +34,9 @@
 </div>
 
 <h2>GitHub Stats</h2>
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naganathan05&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=gotham&hide_border=true" alt="GitHub Streak" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=TharunKumarrA&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunKumarrA&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
