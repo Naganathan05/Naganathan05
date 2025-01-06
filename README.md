@@ -25,15 +25,19 @@
 <a href="https://auth.geeksforgeeks.org/user/naganathcoam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="naganathcoam" height="30" width="40" /></a>
 </p>
 
-## Reach Out To Me
-<a href="#"><img style="margin: 0 20px;" height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png"></a>
-<a href="mailto:naganathan1555@gmail.com"><img style="margin: 0 40px;" height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png"></a>
-<a href="https://linkedin.com/in/naganathan-m-r-388434286" target="_blank"> <img style="margin: 0 40px;" height="48" width="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naganathan-m-r-388434286" /> </a>
-<a href="https://instagram.com/naganathan_.15._" target="_blank"> <img style="margin: 0 40px;" height="48" width="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naganathan_.15._" /> </a>
+<h2> Connect with Me </h2>
+<div>
+    <a href="mailto:naganathan1555@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
+    <a href="https://linkedin.com/in/naganathan-m-r-388434286" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" /></a>
+    <a href="https://github.com/Naganathan05" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+    <a href="https://instagram.com/naganathan_.15._" target="_blank"> <img style="margin: 0 40px;" height="48" width="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naganathan_.15._" /> </a>
+</div>
 
-
-# GitHub Stats :
-![Naganathan's GitHub Stats](https://github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app/api?username=Naganathan05&show_icons=true&theme=dark&hide_border=false)
+<h2>GitHub Stats</h2>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naganathan05&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 
