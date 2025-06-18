@@ -2,10 +2,10 @@
 
 
 # About Me
-- Student | Backend Developer | Cloud Architect.
-- 🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
+- Student | Backend Developer
+- 💻 Software Engineering Intern at Guidewire, Summer 2025.
 - 🛠 Dedicated to Transform Ideas into Impactful Digital Experiences.
-- 😇Always on the Cloud.
+- 😇 Always on the Cloud.
 - 👀 I am currently into Competitive Programming and Backend Development.
 
 ## Contributions Graph
