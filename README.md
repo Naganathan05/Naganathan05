@@ -3,10 +3,9 @@
 
 # About Me
 - Student | Backend Developer
-- 💻 Software Engineering Intern at Guidewire - Summer 2025.
-- 🛠 Dedicated to Transform Ideas into Impactful Digital Experiences.
+- 💻 Software Engineering Intern at Guidewire - Summer 2025, Winter 2026.
 - 😇 Loves Distributed Systems.
-- 👀 I am currently into Competitive Programming and Backend Development.
+- 👀 Into Competitive Programming and Backend Development.
 
 ## Contributions Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naganathan05&bg_color=001724&color=fafafa&line=005fa8&point=1790ee&area=true&hide_border=true)](https://github.com/Naganathan05/)
@@ -35,6 +34,6 @@
 
 <h2>GitHub Stats</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naganathan05&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=gotham&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Naganathan05&show_icons=true&theme=github_dark" alt="Naganathan's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Naganathan05&theme=github_dark" alt="GitHub Streak" />
 </div>
